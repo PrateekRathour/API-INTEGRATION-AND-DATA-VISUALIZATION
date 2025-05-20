@@ -66,3 +66,10 @@ and deliverable production.
 • Planned (by May 19, 2025): Implement multi-location support and additional visualizations.
 • Planned (by May 26, 2025): Finalize weather code mapping and performance optimizations.
 
+OUTPUTS
+
+![Image](https://github.com/user-attachments/assets/a07a2528-21ed-4759-854d-0247f3fda4d1)
+![Image](https://github.com/user-attachments/assets/f3a21750-c18c-4045-81c8-d7bd79d8f369)
+![Image](https://github.com/user-attachments/assets/40dd0d26-b9c4-4912-b30f-463be8fcc233)
+![Image](https://github.com/user-attachments/assets/a60c90b4-c3f9-4294-b71f-0d8b44dc18a2)
+![Image](https://github.com/user-attachments/assets/c45756d7-d502-42f0-ba36-c0d97d9ce56a)
